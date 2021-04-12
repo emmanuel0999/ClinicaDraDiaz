@@ -1,0 +1,17 @@
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\bin\Debug\ClinicaDiaz.exe.config
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\bin\Debug\ClinicaDiaz.exe
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\bin\Debug\ClinicaDiaz.pdb
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.csprojAssemblyReference.cache
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.Form1.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.Properties.Resources.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.csproj.GenerateResource.cache
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.exe
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.pdb
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.Administrador.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.nuevaFactura.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.agregarPaciente.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.gestionarPaciente.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.cotizacion.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.agregarServicios.resources
+C:\Users\emman\source\repos\ClinicaDiaz\ClinicaDiaz\obj\Debug\ClinicaDiaz.cuadreDiario.resources
